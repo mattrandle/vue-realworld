@@ -1,4 +1,4 @@
-# Angular 7 Real World implementation 
+# Vue.js and Vuex Real World implementation 
 
 This project is my vue.js implementations of the Thinkster 'Real World' front end 'Conduit' which is a Medium clone.
 
