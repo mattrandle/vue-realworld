@@ -4,7 +4,7 @@ This project is my vue.js implementations of the Thinkster 'Real World' front en
 
 This implementation is hosted here (https://vueconduit.z19.web.core.windows.net/)
 
-The project is consistent with Vue.js and Vuex best practice, as far as I can see, correctly implements the functionality of the 'Conduit' front end.
+The project is consistent with Vue.js and Vuex best practice, and as far as I can see, correctly implements the functionality of the 'Conduit' front end.
 
 Includes,
 
