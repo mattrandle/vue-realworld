@@ -1,4 +1,4 @@
-![](https://img.shields.io/david/mattrandle/vue-realworld.svg)
+![](https://img.shields.io/david/mattrandle/vue-realworld.svg) ![](https://img.shields.io/azure-devops/build/mattrandle/realworld-angular/5/master.svg)
 
 # Vue.js and Vuex Real World implementation 
 
