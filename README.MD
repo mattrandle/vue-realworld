@@ -1,3 +1,5 @@
+![](https://img.shields.io/david/mattrandle/vue-realworld.svg)
+
 # Vue.js and Vuex Real World implementation 
 
 This project is my vue.js implementations of the Thinkster 'Real World' front end 'Conduit' which is a Medium clone.
